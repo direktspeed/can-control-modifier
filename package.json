@@ -24,7 +24,7 @@
   "homepage": "https://github.com/canjs/can-control-modifier#readme",
   "dependencies": {
     "can-util-function": "0.0.4",
-    "can": "^2.2.5"
+    "can": "^3.0.0"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
