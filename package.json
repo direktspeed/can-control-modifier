@@ -30,7 +30,7 @@
     "grunt": "^1.0.1",
     "grunt-bump": "^0.8.0",
     "grunt-cli": "^1.2.0",
-    "jquery": "^3.1.1",
+    "jquery": "^3.2.1",
     "steal": "^0.16.41",
     "steal-qunit": "0.1.4",
     "steal-tools": "^0.16.8"
